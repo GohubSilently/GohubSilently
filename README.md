@@ -3,6 +3,7 @@
 
 
 ## 🌐 Socials:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/vadim_khalin)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@vadim12.11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vadim-khalin-30134b351) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:silentlygoal@gmail.com) 
 
 # 💻 Tech Stack:
@@ -20,5 +21,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GohubSilently&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Vadim — Python Backend Developer, learning at Yandex Practicum.<br>🛠️ Building web apps with Django, writing clean and tested code.<br>🚀 Open to collaboration.
+👋 Hi, I'm Vadim — Python Backend Developer.
 
 
 ## 🌐 Socials:
